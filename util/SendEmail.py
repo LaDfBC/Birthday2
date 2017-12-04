@@ -3,7 +3,7 @@ import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-def send_message(message):
+def send_message(message, email, subject):
     s = smtplib.SMTP(host='smtp.gmail.com', port=587)
     s.starttls()
     s.login("george.mausshardt@gmail.com", PASSWORD)
@@ -11,8 +11,8 @@ def send_message(message):
     msg = MIMEMultipart()
 
     msg['From'] = "george.mausshardt@gmail.com"
-    msg['To'] = "george.mausshardt@gmail.com"
-    msg['Subject'] = "TEST MESSAGE"
+    msg['To'] = email
+    msg['Subject'] = subject
 
     msg.attach(MIMEText(message, 'plain'))
 

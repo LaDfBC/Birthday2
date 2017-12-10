@@ -79,20 +79,54 @@ class Message():
                     "It's cold outside today, so let's put on a coat and jacket and get nice and cold so I can make you "
                     " hot chocolate and cuddle under a warm blanket!  You choose the movie to cuddle to!",
                     ' Hot Chocolate and Cuddles'],
-                "17": ['', ''],
-                "18": ['', ''],
-                "19": ['', ''],
-                "20": ['', ''],
-                "21": ['', ''],
-                "22": ['Hey!  Happy Anniversary!  So I know we promised not to give each other gifts this year, but can'
-                       ' I at least take you out to a fancy dinner?  ', ''],
+                "17": ['Alright, so you\'re really good in bed.  Like, amazing at moving the right way and saying the'
+                       ' right things and just being incredibly, unbelievably sexy.  I need to tell you that more often'
+                       ' because it\'s super important and amazingly hot.  Anyway, I know that every time we take each'
+                       ' other\'s clothes off it\'s going to be a good time and now I kind of want to crawl over and'
+                       ' rip your shirt off.  Getting a new couch has that one big downside that we can\'t get it'
+                       ' all gross. :(  Ah well, get ready for tonight because I\'m totally going to jump your bones!', None],
+                "18": ['The farthest known object from Earth is known as MACS0647-JD.  It\'s a galaxy that shows up as a tiny'
+                       ' red dot viewed through a special gravitational lens, but is actually quite a small galaxy. Why did'
+                       ' I lead off this note with a bunch of astronomy?  Come on, you know that already! Alright, it\'s'
+                       ' so that I can now win this thing by tellling you that I love you to MACS0647-JD and back! So ha!'
+                       ' I\'m "right" for once!', None],
+                "19": ['Why do you always call me silly boy? I don\'t really think I\'m entirely silly and you really'
+                       ' only say it after I do something super cute or sexy. So my Theory is that you do it to hide your'
+                       ' own blushing. And the thing about scientific Theories is that they need at least 30 trials before'
+                       ' any conclusions can be made. So I\'m going to try to test this hypothesis for the rest of the month'
+                       ' by making you blush as often as I can.  Hopefully these notes are a good start and I just need to'
+                       ' follow up, right?  Love you darling - can\'t wait to test my hypothesis and turn your face bright'
+                       ' red!', None],
+                "20": ['So I have a confession to make. It\s hard to think of 365 different ways to tell you how much'
+                       ' I both like you and love you. I know that some of these notes are better than other but the whole'
+                       ' point is to make you feel loved and wanted and amazing every single day.  So how about today I'
+                       ' mention today that you always manage to get into my head despite me trying to focus on anything'
+                       ' else.  Like today I was in the middle of a project for work and all of a sudden I thought about'
+                       ' the things I wanted to do for you that night...and at the time which of the Gooey Butter Cake'
+                       ' recipes were going to be better. So I apologize for some of these being weaker entries than'
+                       ' others but I wanted you to know how much I care about and think about you literally all the time.'
+                       ' Love you, sugar!', None],
+                "21": ['Know why tomorrow is special?  Not only did I not forget, I remember a month in advance! I promise'
+                       ' I didn\'t get you any jewelry or special presents but I am excited to wake up next to you and tell'
+                       ' you how excited I am that we mde it to 2 years! But not only that, we\'ve moved in together and'
+                       ' sleep together every night and generally enjoy each other.  So I was going to do this tomorrow'
+                       ' night, but today is a Sunday and tomorrow is a school night. Soooo, can I at least take you out'
+                       ' to a semi-fancy dinner? Outback steaks? Pasta on the Hill? Including the To-Do for tonight'
+                       ' instead of tomorrow.  I love you bunches and can\'t wait for fancy food!', 'Anniversary Dinner!'],
+                "22": ['Hey!  Happy Anniversary! We made it to 2! Unforunately, we have to go to work today, but I\'m super'
+                       ' excited that we did it and to spend the next year with you.  You\'re fantastic and amazing and'
+                       ' smart and sexy and lovable and cuddly and funny and humorous and generally lovely and I want to'
+                       ' hold you forever.  Work sucks, but I hope you have a good day nonetheless!', None],
                 "23": [' 2 years and a day.  Ever think we\'d make it this far?  I for one still think you\'re getting'
                        ' screwed out of an awesome relationship with some hot dude like Thor...or Blake Lively.  You could'
                        ' absolutely get either one of them and live in a mansion with people to cook and clean for you.  '
                        'But I\'m glad you\'re with me and not some super attractive Hollywood star.  Thanks for being'
                        ' so sweet and kind and level-headed and generally so cool about everything!', None],
                 "24": ['', ''],
-                "25": ['', ''],
+                "25": ['Can you believe it\'s already been a month since Christmas? I\'m going to bet that either our'
+                       ' tree or our lights are still up, because of course they are. I love how crazy you are about'
+                       ' some of the silliest and cutest things in life. This is a silly note but you know what,'
+                       ' all of the serious notes are kind of boring. I love you bunches darling! Have a good day!', None],
                 "26": ['', ''],
                 "27": ['', ''],
                 "28": ['I\'m writing this one the night after I did the first work on the dresser/bar that\'s going in'
@@ -140,7 +174,11 @@ class Message():
               "17": ['', ''],
               "18": ['', ''],
               "19": ['', ''],
-              "20": ['', ''],
+              "20": ['Hey there cutie! I don\'t believe we\'ve ever been to a coffee house and it seems like something'
+                     ' we\'d both enjoy. So how about we go get some fancy hot cocoa tonight on me?  We can even bring'
+                     ' Timelines or books or something and just relax.  Am I being too hipster?  I think I\'m being'
+                     ' too hipster. Ah well, I love you all the same and you can feel free to judge me for this one.'
+                     ' But hey, it\'s a cute date idea, right?  Right?', 'Coffe Shop Date'],
               "21": ['', ''],
               "22": ['', ''],
               "23": ['', ''],
@@ -231,7 +269,9 @@ class Message():
               "11": ['', ''],
               "12": ['', ''],
               "13": ['', ''],
-              "14": ['', ''],
+              "14": ['Remember the castle mausoleum and castle in a state park?  Yeah, it\'s warm again so let\'s go'
+                     ' explore a castle and have fun!  I love you and I\'m looking forward to our fantastic day together!',
+                     'Go see castles across the state.'],
               "15": ['', ''],
               "16": ['', ''],
               "17": ['', ''],
@@ -265,12 +305,16 @@ class Message():
               "7": ['', ''],
               "8": ['', ''],
               "9": ['', ''],
-              "10": ['We just got the new couch yesterday and I it. That would never have happened without you so thank'
+              "10": ['We just got the new couch yesterday and I love it. That would never have happened without you so thank'
                      ' you so much for driving us to choose one and getting it moved into the living room.  I appreciate'
                      ' you being so strong-willed and knowledgeable about what you want.  You have great tastes and make'
                      ' wonderful things happen all the time.  Love you!', None],
               "11": ['', ''],
-              "12": ['', ''],
+              "12": ['So I have a special note for you today - one that is going to take a little bit of planning ahead'
+                     ' but I wanted to give you the option. I will take a half day whenever you want to go to the wineries.'
+                     ' I want to spend some time with you and when I was writing these notes, had no idea when we\'d find'
+                     ' time to take off of work 4 months in advance.  So let me know when you want to hang out and sip wine -'
+                     ' I\'m looking forward to it!', 'Tell me when you want to take a half (or full) day to sip wine'],
               "13": ['', ''],
               "14": ['', ''],
               "15": ["Remember that time we rode our bikes and found like 15 turtles?  Yeah, that was fun.  Let\'s do"
@@ -289,7 +333,12 @@ class Message():
                      ' I want to remind you about constantly is how great it feels to crawl in next to you and that if you'
                      ' ever don\'t feel the same way, I want to fix it immediately.  So let me know if you\'re ever not 100%'
                      ' comfortable or happy getting into bed! I love you and everything about you!', None],
-              "18": ['', ''],
+              "18": ['Good morning sweetie! So today I would like to thank you for all of the thoughtfulness and effort'
+                     ' you put into our life together and wanted to let you know that I really appreciate it.  Now, I wish'
+                     ' there was more I could do to show you much I love that part of you every single day but so far I\'m'
+                     ' coming up blank (besides writing a cute little email every morning).  But you really are incredible'
+                     ' with just how much you think about and carefully craft every little thing so I want you to have a'
+                     ' good day and hope I can give back a little bit of that thoughtfulness tonight.  Love you!', None],
               "19": ['', ''],
               "20": ['Now it\'s definitely warm enough to maybe make date out of ice cream.  So, there\'s something'
                      ' we haven\'t done in a while that we both seemed to enjoy: Just getting a blanket and laying'
@@ -322,8 +371,8 @@ class Message():
                     ' one of these, but June is weird because there aren\'t really a lot of things planned months in'
                     ' advance.  Anyway, I love you and if there\'s nothing going on today, then we should go get waffles'
                     ' and ice cream!  Perfect thing to do in the summer!  Let\'s go have fun together!',
-                    'Waffles and Ice Cream - 6/8'],
-              "9": ['Waffles and Ice Cream yesterday, Eggs and Cake Today right!?  Isn\'t that how it works?  Just kidding,'
+                    'Waffles and Ice Cream'],
+              "9": ['Waffles and Ice Cream yesterday, Eggs and Cake Today right!?  Isn\'t that how it works?'
                     ' I love you so much and this kind of thing just makes me think about all the things I want to do'
                     ' with you!  You are an amazing, sexy, funny, and generally amazing person!', None],
               "10": ['', ''],
@@ -382,7 +431,9 @@ class Message():
               "22": ['This is randomly the first thing I wrote in July.  So there\'s a cool thing we should do tonight or'
                      ' sometime this week.  Back when we first started dating, we talked about having a picnic supper in'
                      ' a park some night where we would just hang out on a hill and eat pizza and dessert and chat.  We'
-                     ' haven\'t done that and we need to!  My treat - looking forward to it!', 'Pizza and dessert in the park'],
+                     ' haven\'t done that and we need to!  My treat - looking forward to it!  Oh, and I\'m driving so'
+                     ' you don\'t have to worry about anything at all.  Wish you were here so we could make out for a'
+                     ' bit. Love you!', 'Pizza and dessert in the park'],
               "23": ['', ''],
               "24": ['', ''],
               "25": ['', ''],
@@ -554,18 +605,20 @@ class Message():
                "5": ['', ''],
                "6": ['', ''],
                "7": ['', ''],
-               "8": ['<<ANNOUNCE BIRTHDAY THING FOR NEXT YEAR>>', None],
+               "8": ['ANNOUNCE BIRTHDAY THING FOR NEXT YEAR', None],
                "9": ['Happy Birthday Apple!  I still wrote that thing that\'ll message you every day, but now it\'s going'
                      ' to go through your email.  I\'ve set it up so I can change any parameter within like 5 minutes, so '
                      ' if 8am is too early for you, I can change the email to send whenever you want!  Also, some of the'
                      ' messages are attached with cute little things I want to do for you, and those can be found in a '
-                     ' To-Do list on the website Remember the Milk.  I\'ll get you the info for that shortly so you can'
-                     ' check out today\'s thing!  I love you so much and hope you have a great birthday!',
-                     'Open Presents!  There\'s one under the bed!  And another in your trunk.  And in your purse.'],
+                     ' To-Do list on the website Remember the Milk, here: https://www.rememberthemilk.com/app/#all. '
+                     'I\'ll get you the info for that shortly so you can check out today\'s thing!  I love you so much '
+                     'and hope you have a great birthday!',
+                     'Open Presents! And do things that you love all day - your boyfriend tried his best to plan a good day!'],
                "10": ["Hey Darling!  Good Morning!  Unfortunately it\'s not your birthday anymore, but I can still"
-                      " try to make you happy every day.  I actually have one more present for you - on Sunday nights,"
-                      " the Lemp Mansion has fried chicken meals!  We have a reservation tonight, so get a dress our and "
-                      " show off!", 'Get fried chicken at the Lemp Mansion'],
+                      " try to make you happy every day. So I was going to have us go to the Lemp Mansion for fried chicken"
+                      " like I told you, but that\'s not happening, so I postponed it to one of these in spring. You\'ll need"
+                      " to wear fancy clothes and I wanted to see you in a dress.  Instead, let me pay for your food tonight"
+                      " instead! Love you! Only 364 more days until your next birthday!", None],
                "11": ['Alright, I\'m unfortunately out of presents now, until Christmas at least.  I still want to use these'
                       ' to tell you how much I love you every day of the week!  So because I love you, the other cool '
                       ' thing about these messages is that I can change them at will and surprise you when things come'
@@ -657,6 +710,3 @@ class Message():
                "31": ['Happy New Years\' Eve!  Whatever we\'re doing tonight, I\'m excited to ring in the new year with you'
                       ' and kiss you at midnight!  It\'s been a great year and I can\'t wait to do another year with you!', '']
                }}
-
-
-print(Message.year_dict["2"]["4"])

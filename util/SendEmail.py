@@ -20,5 +20,5 @@ def send_message(message, email, subject):
 
     del msg
 
-send_message("Hi there!")
+# send_message("Hi there!", "george.mausshardt@gmail.com", "TEST")
 

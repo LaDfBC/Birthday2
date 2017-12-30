@@ -6,7 +6,7 @@ from email.mime.text import MIMEText
 def send_message(message, email, subject):
     s = smtplib.SMTP(host='smtp.gmail.com', port=587)
     s.starttls()
-    s.login("george.mausshardt@gmail.com", PASSWORD)
+    s.login("george.mausshardt@gmail.com", "Jaerawildwater1920")
 
     msg = MIMEMultipart()
 
